@@ -1,0 +1,2 @@
+# pharmacy_counting
+This program is written in Python. The input is data is the simplified data set from the Centers for Medicare &amp; Medicaid Services. It provides information on id number, names of prescribers, prescription drug names and drug cost. The program reads the input data sets and generate a list of all drugs, the total number of unique prescribers for each drug and the total drug cost. The output information is listed in descending order based on the total drug cost and if there is a tie, drug name.
